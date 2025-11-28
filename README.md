@@ -34,7 +34,7 @@ Database layer for schema + storage
  ## Instalation
 
  + clone repos: 
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone [https://github.com/<your-username>/<your-repo>.git](https://github.com/simolargou/library-management.git)
    cd <your-repo>
  + create virtual envirement
    python3 -m venv venv
